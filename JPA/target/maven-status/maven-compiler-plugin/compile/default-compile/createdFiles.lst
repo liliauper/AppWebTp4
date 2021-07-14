@@ -1,0 +1,16 @@
+ar/org/centro8/curso/java/aplicaciones/repositories/jpa/ClienteRepository.class
+ar/org/centro8/curso/java/aplicaciones/enums/Tipo.class
+ar/org/centro8/curso/java/aplicaciones/repositories/interfaces/I_ClienteRepository.class
+ar/org/centro8/curso/java/aplicaciones/repositories/interfaces/I_ArticuloRepository.class
+ar/org/centro8/curso/java/aplicaciones/entities/Cliente_.class
+ar/org/centro8/curso/java/aplicaciones/test/TestJpaArticulos.class
+ar/org/centro8/curso/java/aplicaciones/repositories/jpa/ArticuloRepository.class
+ar/org/centro8/curso/java/aplicaciones/entities/Articulo.class
+ar/org/centro8/curso/java/aplicaciones/services/ArticuloService.class
+ar/org/centro8/curso/java/aplicaciones/services/JaxRSConfig.class
+ar/org/centro8/curso/java/aplicaciones/services/ClientesService.class
+ar/org/centro8/curso/java/aplicaciones/enums/TipoDocumento.class
+ar/org/centro8/curso/java/aplicaciones/enums/Temporada.class
+ar/org/centro8/curso/java/aplicaciones/test/TestJpaClientes.class
+ar/org/centro8/curso/java/aplicaciones/entities/Articulo_.class
+ar/org/centro8/curso/java/aplicaciones/entities/Cliente.class

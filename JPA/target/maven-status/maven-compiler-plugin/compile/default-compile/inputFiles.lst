@@ -1,0 +1,14 @@
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/services/ArticuloService.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/repositories/jpa/ArticuloRepository.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/enums/TipoDocumento.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/entities/Cliente.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/services/ClientesService.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/enums/Tipo.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/repositories/interfaces/I_ClienteRepository.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/test/TestJpaArticulos.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/enums/Temporada.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/entities/Articulo.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/test/TestJpaClientes.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/repositories/jpa/ClienteRepository.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/services/JaxRSConfig.java
+/home/lilia/Documentos/A-AplicacionesWeb/JPA/src/main/java/ar/org/centro8/curso/java/aplicaciones/repositories/interfaces/I_ArticuloRepository.java
